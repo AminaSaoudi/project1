@@ -1,5 +1,5 @@
 int main(void){
 
-printf("hah");
+printf("commit");
 return 0;
 }
